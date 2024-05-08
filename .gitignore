@@ -1,4 +1,0 @@
-# Ignore virtual environment directories
-venv/
-# Ignore logs directory
-logs/
